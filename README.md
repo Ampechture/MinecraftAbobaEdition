@@ -94,6 +94,6 @@
 ### Industrial village
 - [ ] Статус сборки
 - **Версия Minecraft**: 1.20.1
-- **Версия Forge:**
+- **Версия Forge:** 47.3.0
 - **Дополнительная информация:**
 - [Ссылка на сборку](https://www.curseforge.com/minecraft/modpacks/industrial-village/files/5897194)
