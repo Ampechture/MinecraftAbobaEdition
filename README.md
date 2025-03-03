@@ -91,3 +91,9 @@
 - **Версия Minecraft**: 1.18.2
 - **Версия Forge:** 40.2.17
 - **Дополнительная информация:** Необходимо удалить мод - **"1.18.2netherskeletons4.8.jar"** из папки mods, иначе сборка не запускается.
+### Industrial village
+- [ ] Статус сборки
+- **Версия Minecraft**: 1.20.1
+- **Версия Forge:**
+- **Дополнительная информация:**
+- [Ссылка на сборку](https://www.curseforge.com/minecraft/modpacks/industrial-village/files/5897194)
